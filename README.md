@@ -2,6 +2,9 @@
 
 A robust PyQt5-based desktop application for real-time trading with Databento market data integration, take-profit management, and automated trade execution.
 
+![image](https://github.com/user-attachments/assets/7286aabc-72cd-418c-be28-f7302f763002)
+
+
 ## Features
 
 - Real-time market data streaming through Databento API
